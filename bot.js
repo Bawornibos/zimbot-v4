@@ -33,20 +33,20 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
+global.owner = ['6282138037447',''] //owner number +27634090203
+global.wame = ['6282138037447'] 
+global.pemilik = ['6282138037447'] //owner number +27634090203
+global.premium = ['6285211112701'] //premium number +27634090203
+global.pengguna = '🪀◥དAdheBaworཌ◤' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.botname = '꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂'
+global.ownernma = '🪀◥དAdheBaworཌ◤' //owner name
+global.packname = '꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂' //sticker package name
+global.author = 'By ◥དAdheBaworཌ◤' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '🔵' //sp
+global.sp = '🔮' //sp
 global.dripstyping = false
 global.dripsreadgroup = false
 global.dripsreadall = false
@@ -86,7 +86,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: 25 //free user limit
 }
 global.rpg = {
 darahawal: 100,
