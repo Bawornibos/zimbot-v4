@@ -172,10 +172,10 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
 
 
 const reply = (teks) => {
-    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ZIM BOT V4",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: false,body: "🪀◥དAdheBaworཌ◤", thumbnail: fs.readFileSync('https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg'),sourceUrl: ("https://bit.ly/CekDISINIIII")}}})
 }
 const replay = (teks) => {
-    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ZIM BOT V4",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "🪀◥དAdheBaworཌ◤", thumbnail: fs.readFileSync('https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg'),sourceUrl: ("https://bit.ly/CekDISINIIII")}}})
 }
 
 const drip =  {
@@ -184,17 +184,17 @@ const drip =  {
 participant : '0@s.whatsapp.net'
 },
      contextInfo: {
-    forwardingScore: 9999,
-    isForwarded: false, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
+    forwardingScore: 9999999,
+    isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
  // Bagian ini sesuka kalian berkreasi :'v
 showAdAttribution: true,
-title: "ZIM BOT V4",
-body: "GIVE IT A STAR",
+title: "꧁ঔৣ☬AMͥcͣoͫde27☬ঔৣ꧂",
+body: "🪀◥དAdheBaworཌ◤",
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/zim-bot/zimbot-v4`,
-description: 'DRIPS OFC',
+mediaUrl: `https://bit.ly/CekDISINIIII`,
+description: 'CekDisini',
 previewType: "PHOTO",
-thumbnail: fs.readFileSync('./drips.jpg'),
+thumbnail: fs.readFileSync('https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg'),
 sourceUrl: "",
 detectLinks: false,
     }}
